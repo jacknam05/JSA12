@@ -1,0 +1,171 @@
+.NAVIBAR {
+    display: flex;
+}
+
+.container1 {
+    background: url('https://th.bing.com/th/id/R.310c47a4d8ee0904d1a627639bd82c78?rik=WsCxezolsSfBbw&pid=ImgRaw');
+    width: 1920px;
+    height: 1080px;
+}
+
+.smallcontainer {
+    margin-left: 15%;
+    margin-top: 20px;
+    justify-content: space-between ;
+}
+
+.LOGO {
+    width: 50px;
+    height: 50px;
+}
+
+.HOME {
+    margin-top: 15%;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.HOME2 {
+    margin-top: 3px;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.container2 {
+    margin-top: 50px;
+}
+
+.Imformation1 {
+    text-align: center;
+}
+
+.image1 {
+    width : 135px;
+    height: 75px;
+}
+
+.image2{
+    width: 80px;
+    height: 100px;
+}
+
+.image3{
+    width: 120px;
+}
+
+.image4{
+    width: 120px;
+    height: 120px;
+}
+
+.image5{
+    margin-left: 8%;
+}
+
+.image6{
+    margin-left: 65px;
+}
+
+.image7{
+    margin-left: 65px;
+}
+
+.image8 {
+    margin-left: 65px;
+}
+
+.image9 {
+    margin-left: 11%;
+    margin-top: 2%;
+}
+
+.image10 {
+    margin-left: 65px;
+}
+
+.image11 {
+    margin-left: 65px;
+}
+
+.image12 {
+    margin-left: 65px;
+}
+
+.image13 {
+    width: 475px;
+    height: 375px;
+    margin-left: 15%;
+}
+
+.image14 {
+    width: 91px;
+    height: 91px;
+}
+
+.image15 {
+    width: 91px;
+    height: 91px;
+}
+
+.image16 {
+    width: 91px;
+    height: 91px;   
+}
+
+.smalltext1 {
+    font-size: 25px;
+}
+
+.imformation2 {
+    display: flex;
+    margin-top: 100px;
+    width: 1900px;
+    height: 120px;
+    margin-left: 2%;
+    justify-content: space-between;
+    font-size: 22px;
+
+}
+
+.leftbox2 {
+    margin-left: 20%;
+}
+
+.rightbox2{
+    margin-left: 20%;
+}
+
+.rightbox1 {
+    margin-left: 20%;
+}
+
+.container3 {
+    margin-top: 18%;
+}
+.line1 {
+    margin-top: 25%;
+    margin-left: 45px;
+    justify-content: space-between;
+}
+
+.Title2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container5 {
+margin-left: 55%;
+margin-top: 3%;
+}
+
+.box1 {
+    margin-top: 3%;
+    display: flex
+}
+
+.insidebox {
+    margin-left: 780px;
+}
