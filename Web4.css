@@ -1,0 +1,45 @@
+/* Khi chưa truy cập vào */
+/* a:link { 
+  color: orange;
+} */
+/* Khi đã truy cập vào rồi */
+/* a:visited {
+  color: green;
+} */
+/* Khi di chuyển chuột vào */
+/* a:hover {
+  color: red;
+} */
+/* Khi click và giữ chuột */
+/* a:active {
+  color: yellow;
+} */
+.container__button button {
+    height: 50px;
+    width: 300px;
+    /* transition-delay: 2s;
+    transition-property: 2s; */
+  }
+  /* .container__button button:hover {
+    background: red; */
+  /* transform: scale(2); */
+  /* Muốn phóng to n lần thì sẽ nhập scale(n)*/
+  /* transform: rotate(45deg); */
+  /* Rotate là quay theo 1 góc bằng n độ*/
+  /* transform: translate(40px, 40px); */
+  /* transform: skew(45deg); */
+  /* } */
+  .container__button button:hover {
+    /* background: red; */
+    transform: scale(2);
+    animation-name: testHover;
+    animation-duration: 2s;
+  }
+  @keyframes testHover {
+    10% {
+      transform: scale(0.5);
+    }
+    100% {
+      transform: scale(2);
+    }
+  }
